@@ -4,6 +4,20 @@
     background-attachment: fixed;
 }
 
+#index-title-h1 {
+    text-align: center; 
+    color:rgb(139, 209, 241); 
+    font-size:80px; 
+    margin-top:20px;
+}
+
+/* #index-title-h2 {
+    text-align: center; 
+    color:#57c5f8;
+    font-size:40px; 
+    margin-top:20px;
+} */
+
 .index-paragraph {
     background-color: rgb(50, 174, 223); 
     padding:10px; 
