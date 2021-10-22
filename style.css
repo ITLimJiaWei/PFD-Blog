@@ -1,3 +1,9 @@
+#index-bg {
+    background-image: url('images/layered-waves-haikei.svg'); 
+    background-size:cover; 
+    background-attachment: fixed;
+}
+
 .index-paragraph {
     background-color: rgb(50, 174, 223); 
     padding:10px; 
