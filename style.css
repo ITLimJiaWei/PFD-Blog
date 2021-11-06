@@ -33,3 +33,10 @@
     margin:40px;
     background-color:deepskyblue;
 }
+
+.reflection-header {
+    text-align:left ;
+    color:#57c5f8; 
+    font-size:70px; 
+    margin-top:20px;
+}
