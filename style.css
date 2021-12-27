@@ -65,3 +65,10 @@ hr.solid {
     margin-top:8px;
     color:white;
 }
+
+#week2-arrow {
+    color:white;
+    text-align: center;
+    font-size:50px;
+    margin-top:80px;
+}
