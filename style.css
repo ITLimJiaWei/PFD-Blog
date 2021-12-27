@@ -34,7 +34,6 @@
     font-family:Roboto; 
     border:2px rgb(0, 0, 0) solid; 
     border-radius:5px;
-    margin-top:20px;
 }
 
 /* Solid border */
@@ -61,12 +60,24 @@ hr.solid {
     margin-top:20px;
 }
 
+.week-header {
+    text-align:center; 
+    color:#57c5f8; 
+    margin-bottom:20px; 
+    font-size:50px;
+}
+
 .fig-no {
     margin-top:8px;
     color:white;
 }
 
-#week2-arrow {
+.fig-pic {
+    width:700px; 
+    border:5px solid #57c5f8;
+}
+
+.index-arrow {
     color:white;
     text-align: center;
     font-size:50px;

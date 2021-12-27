@@ -8,4 +8,10 @@
 
 - layered-waves-haikei sourced from https://haikei.app/
 
-- https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_vnikrcia.json
+- Week 2 LottieFile 1 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_vnikrcia.json
+
+- Week 2 LottieFile 2 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_ngzwzxib.json
+
+- Week 3 LottieFile 1 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_buhqqgcm.json
+
+- Week 3 LottieFile 2
