@@ -16,11 +16,17 @@
 .index-paragraph {
     background-color: rgb(50, 174, 223); 
     padding:10px; 
-    font-size:20px; 
+    font-size:15px; 
     font-family:Roboto; 
-    border:3px rgb(0, 0, 0) solid; 
-    border-radius:8px;
+    border:2px rgb(0, 0, 0) solid; 
+    border-radius:5px;
     margin-top:20px; margin-right:20px;
+}
+
+/* Solid border */
+hr.solid {
+    margin-top:20px;
+    border-top: 10px solid rgb(50, 174, 223);
 }
 
 .reflection-bg {
