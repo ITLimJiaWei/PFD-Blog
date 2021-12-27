@@ -13,6 +13,20 @@
     margin-top:20px;
 }
 
+#oneJoint-title {
+    text-align: center; 
+    color:white;
+    font-size:70px; 
+    margin-top:20px;
+}
+
+#oneJoint-desc {
+    text-align: center; 
+    color:white;
+    font-size:30px; 
+    margin-top:10px;
+}
+
 .index-paragraph {
     background-color: rgb(50, 174, 223); 
     padding:10px; 
@@ -20,7 +34,7 @@
     font-family:Roboto; 
     border:2px rgb(0, 0, 0) solid; 
     border-radius:5px;
-    margin-top:20px; margin-right:20px;
+    margin-top:20px;
 }
 
 /* Solid border */
@@ -45,4 +59,9 @@ hr.solid {
     color:#57c5f8; 
     font-size:70px; 
     margin-top:20px;
+}
+
+.fig-no {
+    margin-top:8px;
+    color:white;
 }
