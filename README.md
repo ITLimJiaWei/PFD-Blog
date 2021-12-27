@@ -1,6 +1,13 @@
-# Personal-Site/Blog
+<h1>Personal Blog</h1>
 
-- This Personal-Site/Blog is developed and designed by me(Lim Jia Wei), for PFD AY/2021 and covers the entirety of PFD Assignment 1.
+Names: Lim Jia Wei <br>
+Class: P05<br>
+IDs: S10204971 <br>
+Website URL: https://itlimjiawei.github.io/Personal-Site/<br>
+
+<h2>Description</h2>
+
+This personal blog aims to documentate my experience and allows me to reflect on events that occurred in Assignment 1 of my PFD module. It is entirely designed and developed using simple front end development skills such as HTML, CSS, JavaScript etc.
 
 ## References and Citations
 
@@ -14,4 +21,4 @@
 
 - Week 3 LottieFile 1 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_buhqqgcm.json
 
-- Week 3 LottieFile 2
+- Week 3 LottieFile 2 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fprivate_files%2Flf30_o0calpsv.json
