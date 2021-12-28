@@ -22,3 +22,7 @@ This personal blog aims to documentate my experience and allows me to reflect on
 - Week 3 LottieFile 1 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_buhqqgcm.json
 
 - Week 3 LottieFile 2 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fprivate_files%2Flf30_o0calpsv.json
+
+- Week 5 LottieFile 1 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets6.lottiefiles.com%2Fprivate_files%2Flf30_lwubnwbl.json
+
+- Week 5 LottieFile 2 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fpackages%2Flf20_boUyL4.json

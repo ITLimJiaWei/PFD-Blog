@@ -62,7 +62,7 @@ hr.solid {
 
 .week-header {
     text-align:center; 
-    color:#57c5f8; 
+    color:#10a7ec; 
     margin-bottom:20px; 
     font-size:50px;
 }
@@ -81,4 +81,16 @@ hr.solid {
     color:white;
     text-align: center;
     font-size:50px;
+}
+
+.team-header {
+    color:white; 
+    font-size:60px; 
+    text-align:center;
+}
+
+.team-member {
+    color:white; 
+    font-size:25px; 
+    text-align:center;
 }
