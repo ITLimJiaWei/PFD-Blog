@@ -1,4 +1,4 @@
-<h1>Personal Blog</h1>
+<h1>PFD Blog</h1>
 
 Names: Lim Jia Wei <br>
 Class: P05<br>
