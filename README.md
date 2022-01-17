@@ -1,4 +1,4 @@
-<h1>Personal Blog</h1>
+<h1>PFD Blog</h1>
 
 Names: Lim Jia Wei <br>
 Class: P05<br>
@@ -26,7 +26,10 @@ This personal blog aims to documentate my experience and allows me to reflect on
 - Week 5 LottieFile 1 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets6.lottiefiles.com%2Fprivate_files%2Flf30_lwubnwbl.json
 
 - Week 5 LottieFile 2 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fpackages%2Flf20_boUyL4.json
+<<<<<<< HEAD
 
 - Week 12 LotiteFile 1 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_hrkmmhjf.json
 
 - Week 13 LottieFile 2 https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_ojdzqkfq.json
+=======
+>>>>>>> 69041c37c8358982dd0369e7a822b74e75e6bbc3
