@@ -4,6 +4,9 @@
     background-attachment: scroll;
 }
 
+body {
+    overflow-x: hidden;
+  }
 
 
 #index-title-h1 {
